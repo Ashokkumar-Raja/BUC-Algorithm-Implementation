@@ -1,6 +1,4 @@
 # Author:	Ashokkumar Raja
-# Course:	CSCI 4144
-# Work:		Assignment 3
 
 import csv, math, itertools
 
