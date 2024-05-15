@@ -10,6 +10,6 @@ Instructions to compile and execute the script:
 * Then run the script BUC.py which will execute the code.
 
 Citations:
-Online resource used for understanding the BUC algorithm and finishing the BUC function
+* Online resource used for understanding the BUC algorithm and finishing the BUC function
 URL: https://blog.actorsfit.com/a?ID=01050-bf2fdb27-e000-48c7-a111-4de36dfb9069
 Date accessed: 21 March 2022
