@@ -1,0 +1,37 @@
+Computer	97
+Computer,2017	49
+Computer,2018	48
+Camera	93
+Camera,2017	50
+Camera,2018	43
+Phone	96
+Phone,2017	46
+Phone,2018	50
+Printer	92
+Printer,2017	47
+Printer,2018	45
+Toronto	94
+Toronto,2017	51
+Toronto,2018	43
+Vancouver	87
+Vancouver,2017	45
+Vancouver,2018	42
+New York	96
+New York,2017	46
+New York,2018	50
+Chicago	101
+Chicago,2017	50
+Chicago,2018	51
+2017	192
+2017,Sony	49
+2017,HP	47
+2017,Dell	57
+2018	186
+2018,Samsung	47
+2018,Sony	54
+2018,HP	41
+2018,Dell	44
+Samsung	86
+Sony	103
+HP	88
+Dell	101
