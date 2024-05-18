@@ -1,4 +1,4 @@
-# BUC-Algorithm-Implementation
+# Iceberg-Cube-Computation
 
 * The script BUC.py is written in python programming language, version 3. 
 * BUC is an efficient recursive algorithm for iceberg cube computation.
